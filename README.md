@@ -88,8 +88,6 @@ A simple **command-line calculator** built in Java, designed to help beginners u
 
 ---
 
----
-
 ## **Contributing**  
 Feel free to:  
 🔹 **Open issues** for bugs/suggestions  
