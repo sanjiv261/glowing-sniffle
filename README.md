@@ -2,7 +2,6 @@
 # **Java Console Calculator**  
 
 ![Java](https://img.shields.io/badge/Java-17%2B-blue)  
-![License](https://img.shields.io/badge/License-MIT-green)  
 
 A simple **command-line calculator** built in Java, designed to help beginners understand:  
 ✔ **Basic Java syntax**  
@@ -29,18 +28,18 @@ A simple **command-line calculator** built in Java, designed to help beginners u
 - A terminal/command prompt  
 
 ### **Steps**  
-1. **Clone the repository** (or download `Calculator.java`):  
+1. **Clone the repository** (or download `Basic_Calculator.java`):  
    ```sh
    git clone https://github.com/yourusername/java-console-calculator.git
    cd java-console-calculator
    ```
 2. **Compile the Java file:**  
    ```sh
-   javac Calculator.java
+   javac Basic_Calculator.java
    ```
 3. **Run the program:**  
    ```sh
-   java Calculator
+   java Basic_Calculator
    ```
 4. **Follow the on-screen menu:**  
    ```
@@ -61,7 +60,7 @@ A simple **command-line calculator** built in Java, designed to help beginners u
 ## **Code Structure**  
 | File | Description |
 |------|------------|
-| `Calculator.java` | Main Java file containing the calculator logic |
+| `Basic_Calculator.java` | Main Java file containing the calculator logic |
 
 ### **Key Methods**  
 | Method | Description |
