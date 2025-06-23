@@ -88,9 +88,6 @@ A simple **command-line calculator** built in Java, designed to help beginners u
 
 ---
 
-## **License**  
-This project is licensed under **MIT**.  
-
 ---
 
 ## **Contributing**  
