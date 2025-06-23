@@ -30,8 +30,8 @@ A simple **command-line calculator** built in Java, designed to help beginners u
 ### **Steps**  
 1. **Clone the repository** (or download `Basic_Calculator.java`):  
    ```sh
-   git clone https://github.com/yourusername/java-console-calculator.git
-   cd java-console-calculator
+   git clone https://github.com/sanjiv261/glowing-sniffle.git
+   cd glowing-sniffle
    ```
 2. **Compile the Java file:**  
    ```sh
