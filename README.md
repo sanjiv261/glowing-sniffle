@@ -76,7 +76,7 @@ A simple **command-line calculator** built in Java, designed to help beginners u
 ✅ **Java Basics** (Variables, Methods, Loops)  
 ✅ **User Input Handling** (Using `Scanner`)  
 ✅ **Error Prevention** (Zero-division check)  
-✅ **Clean Output Formatting** (`printf`)  
+✅ **Clean Output Formatting** (`println`)  
 
 ---
 
@@ -93,7 +93,7 @@ Feel free to:
 🔹 **Fork & submit pull requests**  
 🔹 **Star the repo** if you find it useful!  
 
-**Happy Coding!** 🚀
+**Thank you!** 🚀
 
 
 
